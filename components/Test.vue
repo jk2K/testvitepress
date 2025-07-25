@@ -3,7 +3,7 @@ import { FwbButton } from 'flowbite-vue'
 </script>
 
 <template>
-    <div class="zhichunQRTool">
+    <div class="">
         <fwb-button color="default">Default</fwb-button>
     </div>
 </template>

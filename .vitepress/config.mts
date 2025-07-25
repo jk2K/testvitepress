@@ -31,4 +31,8 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/vuejs/vitepress" },
     ],
   },
+  sitemap: {
+    hostname: "https://www.demo.com",
+    lastmodDateOnly: false,
+  },
 });
